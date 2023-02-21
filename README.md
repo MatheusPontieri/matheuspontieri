@@ -1,6 +1,6 @@
 # Olá! Eu sou Matheus Pontieri ✋
-
-🚀Iniciante no backend e buscando mais conhecimento ☕
+🚀Iniciante no back-end e buscando mais conhecimento ☕
+<br>
 
 ## Tecnologias usadas e em aprendizagem
 <div style="display: inline_block">
@@ -11,7 +11,7 @@
   <img align="center" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" height="30" width="40"/>
   <img align="center" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="30" width="40"/>
   <img align="center" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="30" width="40"/>
-</div><br/>
+</div>
 
 ## Redes Sociais
 
