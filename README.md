@@ -1,14 +1,14 @@
 # Olá! Eu sou Matheus Pontieri ✋
-🚀Iniciante no back-end e buscando mais conhecimento ☕
+🚀Estudando back-end e buscando mais conhecimento ☕
 <br>
 
 ## Tecnologias em aprendizagem
 <div style="display: inline_block">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" width="40"/>
-  <img align="center" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" width="60"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" width="60"/> 
+  <img align="center" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="45" width="60"/>
+  
 </div>
 
 ## Redes Sociais
